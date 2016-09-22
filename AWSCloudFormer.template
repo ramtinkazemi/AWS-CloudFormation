@@ -1,7 +1,7 @@
 {
   "AWSTemplateFormatVersion" : "2010-09-09",
 
-  "Description" : "AWS CloudFormer Beta - template creation prototype application. This tool allows you to create an AWS CloudFormation template from the AWS resources in your AWS account. **Warning** This template creates a single t1.micro instance in your account to run the application - you will be billed for the instance at normal AWS EC2 rates for the t1.micro.",
+  "Description" : " 2 - AWS CloudFormer Beta - template creation prototype application. This tool allows you to create an AWS CloudFormation template from the AWS resources in your AWS account. **Warning** This template creates a single t1.micro instance in your account to run the application - you will be billed for the instance at normal AWS EC2 rates for the t1.micro.",
 
   "Parameters" : {
     "AccessControl" : {
